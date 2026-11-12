@@ -74,6 +74,6 @@ Aplikasi ini dikembangkan untuk membantu proses administrasi penitipan hewan, me
 
 ## 👨‍💻 Developer
 
-**Abetnego Siahaan**
+**Rey Siahaan**
 
 GitHub: [@Abetnego2332009](https://github.com/Abetnego2332009)
